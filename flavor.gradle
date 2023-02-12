@@ -1,0 +1,11 @@
+android {
+    flavorDimensions "brand"
+    productFlavors {
+        oppo {
+            dimension "brand"
+        }
+        oneplus {
+            dimension "brand"
+        }
+    }
+}

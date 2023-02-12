@@ -1,0 +1,2 @@
+:domestic::release;capability group='DfmApp', name='domestic', version='unspecified'
+:flavor_dom::release;capability group='DfmApp', name='flavor_dom', version='unspecified'

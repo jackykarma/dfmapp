@@ -1,0 +1,2 @@
+:export::oneplusDebug;capability group='DfmApp', name='export', version='unspecified'
+:flavor_exp::debug;capability group='DfmApp', name='flavor_exp', version='unspecified'

@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright 2018 Google LLC.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~    http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<!-- This feature module only contains a single assets file relevant to the Android app. -->
+18<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+19    xmlns:dist="http://schemas.android.com/apk/distribution"
+20    featureSplit="domestic"
+21    package="com.jacky.dfmapp"
+22    android:versionCode="1"
+23    android:versionName="1.0" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="21"
+26-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+27        android:targetSdkVersion="32" />
+27-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+28
+29    <dist:module
+29-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:22:5-26:19
+30        dist:onDemand="true"
+30-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:23:9-29
+31        dist:title="@string/dfm_dom" >
+31-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:24:9-37
+32        <dist:fusing dist:include="false" />
+32-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:25:9-45
+32-->/Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:25:22-42
+33    </dist:module>
+34
+35    <queries>
+35-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:5-36:15
+36        <package android:name="com.jacky.domestic.cast" />
+36-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-59
+36-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:18-56
+37        <package android:name="com.jacky.domestic.pmres" />
+37-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-60
+37-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:18-57
+38        <package android:name="com.jacky.test" />
+38-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-50
+38-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:18-47
+39    </queries>
+40
+41    <application
+41-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:5-47:19
+42        android:allowBackup="false"
+42-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:9-36
+43        android:debuggable="true"
+44        android:hasCode="false" >
+44-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-32
+45        <meta-data
+45-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:9-43:47
+46            android:name="app_key"
+46-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-35
+47            android:value="@string/app_key" />
+47-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-44
+48        <meta-data
+48-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:9-46:55
+49            android:name="android.app.shortcuts"
+49-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-49
+50            android:value="@xml/shortcuts_domestic" />
+50-->[:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-52
+51    </application>
+52
+53</manifest>

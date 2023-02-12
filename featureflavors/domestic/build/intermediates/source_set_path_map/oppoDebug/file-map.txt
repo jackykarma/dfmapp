@@ -1,0 +1,11 @@
+com.jacky.android.app_aab.featureflavors.domestic-oppo-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/generated/res/pngs/oppo/debug
+com.jacky.android.app_aab.featureflavors.domestic-oppo-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/generated/res/resValues/oppo/debug
+com.jacky.android.app_aab.featureflavors.domestic-oppo-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/generated/res/rs/oppo/debug
+com.jacky.android.app_aab.featureflavors.domestic-packageOppoDebugResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/merged.dir
+com.jacky.android.app_aab.featureflavors.domestic-packageOppoDebugResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.domestic-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/build/intermediates/merged_res/oppoDebug
+com.jacky.android.app_aab.featureflavors.domestic-debug-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/debug/res
+com.jacky.android.app_aab.featureflavors.domestic-main-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/res
+com.jacky.android.app_aab.featureflavors.domestic-oppo-8 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/oppo/res
+com.jacky.android.app_aab.featureflavors.domestic-oppoDebug-9 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/oppoDebug/res
+com.jacky.android.app_aab.featureflavors.domestic-packaged_res-10 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/packaged_res/debug

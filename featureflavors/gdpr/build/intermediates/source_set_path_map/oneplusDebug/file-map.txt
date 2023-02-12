@@ -1,0 +1,11 @@
+com.jacky.android.app_aab.featureflavors.gdpr-oneplus-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/pngs/oneplus/debug
+com.jacky.android.app_aab.featureflavors.gdpr-oneplus-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/resValues/oneplus/debug
+com.jacky.android.app_aab.featureflavors.gdpr-oneplus-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/rs/oneplus/debug
+com.jacky.android.app_aab.featureflavors.gdpr-packageOneplusDebugResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/oneplusDebug/packageOneplusDebugResources/merged.dir
+com.jacky.android.app_aab.featureflavors.gdpr-packageOneplusDebugResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/oneplusDebug/packageOneplusDebugResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.gdpr-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/merged_res/oneplusDebug
+com.jacky.android.app_aab.featureflavors.gdpr-debug-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/debug/res
+com.jacky.android.app_aab.featureflavors.gdpr-main-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/main/res
+com.jacky.android.app_aab.featureflavors.gdpr-oneplus-8 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/oneplus/res
+com.jacky.android.app_aab.featureflavors.gdpr-oneplusDebug-9 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/oneplusDebug/res
+com.jacky.android.app_aab.featureflavors.gdpr-packaged_res-10 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/build/intermediates/packaged_res/debug

@@ -1,0 +1,2 @@
+:flavor_gdpr::release;capability group='DfmApp', name='flavor_gdpr', version='unspecified'
+:gdpr::release;capability group='DfmApp', name='gdpr', version='unspecified'

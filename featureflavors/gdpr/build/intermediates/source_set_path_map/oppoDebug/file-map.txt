@@ -1,0 +1,11 @@
+com.jacky.android.app_aab.featureflavors.gdpr-oppo-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/pngs/oppo/debug
+com.jacky.android.app_aab.featureflavors.gdpr-oppo-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/resValues/oppo/debug
+com.jacky.android.app_aab.featureflavors.gdpr-oppo-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/rs/oppo/debug
+com.jacky.android.app_aab.featureflavors.gdpr-packageOppoDebugResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/merged.dir
+com.jacky.android.app_aab.featureflavors.gdpr-packageOppoDebugResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.gdpr-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/merged_res/oppoDebug
+com.jacky.android.app_aab.featureflavors.gdpr-debug-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/debug/res
+com.jacky.android.app_aab.featureflavors.gdpr-main-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/main/res
+com.jacky.android.app_aab.featureflavors.gdpr-oppo-8 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/oppo/res
+com.jacky.android.app_aab.featureflavors.gdpr-oppoDebug-9 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/oppoDebug/res
+com.jacky.android.app_aab.featureflavors.gdpr-packaged_res-10 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/build/intermediates/packaged_res/debug

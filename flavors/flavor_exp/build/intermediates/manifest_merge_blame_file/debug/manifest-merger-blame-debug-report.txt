@@ -1,0 +1,72 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright 2018 Google LLC.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~    http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<!-- This feature module only contains a single assets file relevant to the Android app. -->
+18<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+19    xmlns:dist="http://schemas.android.com/apk/distribution"
+20    package="com.jacky.android.flavors.export" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="32" />
+24-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml
+25
+26    <dist:module
+26-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:22:5-26:19
+27        dist:onDemand="true"
+27-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:23:9-29
+28        dist:title="@string/dfm_export" >
+28-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:24:9-40
+29        <dist:fusing dist:include="false" />
+29-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:25:9-45
+29-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:25:22-42
+30    </dist:module>
+31
+32    <queries>
+32-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:38:5-42:15
+33        <package android:name="com.jacky.export.cast" />
+33-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:39:9-57
+33-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:39:18-54
+34        <package android:name="com.jacky.export.pmres" />
+34-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:40:9-58
+34-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:40:18-55
+35        <package android:name="com.jacky.test" />
+35-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:41:9-49
+35-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:41:18-47
+36    </queries>
+37
+38    <application
+38-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:28:5-37:19
+39        android:allowBackup="true"
+39-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:29:9-35
+40        android:hasCode="false" >
+40-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:28:18-41
+41        <meta-data
+41-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:31:9-33:47
+42            android:name="app_key"
+42-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:32:13-35
+43            android:value="@string/app_key" />
+43-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:33:13-44
+44        <meta-data
+44-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:34:9-36:53
+45            android:name="android.app.shortcuts"
+45-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:35:13-49
+46            android:value="@xml/shortcuts_export" />
+46-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/src/main/AndroidManifest.xml:36:13-50
+47    </application>
+48
+49</manifest>

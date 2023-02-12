@@ -1,0 +1,9 @@
+com.jacky.android.app_aab.featureflavors.gdpr-pngs-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/pngs/release
+com.jacky.android.app_aab.featureflavors.gdpr-resValues-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/resValues/release
+com.jacky.android.app_aab.featureflavors.gdpr-rs-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/generated/res/rs/release
+com.jacky.android.app_aab.featureflavors.gdpr-packageReleaseResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.jacky.android.app_aab.featureflavors.gdpr-packageReleaseResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.gdpr-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/build/intermediates/merged_res/release
+com.jacky.android.app_aab.featureflavors.gdpr-main-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/main/res
+com.jacky.android.app_aab.featureflavors.gdpr-release-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/gdpr/src/release/res
+com.jacky.android.app_aab.featureflavors.gdpr-packaged_res-8 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/build/intermediates/packaged_res/release

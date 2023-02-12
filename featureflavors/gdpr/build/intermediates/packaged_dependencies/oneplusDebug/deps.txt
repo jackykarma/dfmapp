@@ -1,0 +1,2 @@
+:flavor_gdpr::debug;capability group='DfmApp', name='flavor_gdpr', version='unspecified'
+:gdpr::oneplusDebug;capability group='DfmApp', name='gdpr', version='unspecified'

@@ -1,0 +1,11 @@
+com.jacky.android.app_aab.featureflavors.export-oneplus-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/pngs/oneplus/debug
+com.jacky.android.app_aab.featureflavors.export-oneplus-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/resValues/oneplus/debug
+com.jacky.android.app_aab.featureflavors.export-oneplus-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/rs/oneplus/debug
+com.jacky.android.app_aab.featureflavors.export-packageOneplusDebugResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/oneplusDebug/packageOneplusDebugResources/merged.dir
+com.jacky.android.app_aab.featureflavors.export-packageOneplusDebugResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/oneplusDebug/packageOneplusDebugResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.export-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/merged_res/oneplusDebug
+com.jacky.android.app_aab.featureflavors.export-debug-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/debug/res
+com.jacky.android.app_aab.featureflavors.export-main-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/main/res
+com.jacky.android.app_aab.featureflavors.export-oneplus-8 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/oneplus/res
+com.jacky.android.app_aab.featureflavors.export-oneplusDebug-9 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/oneplusDebug/res
+com.jacky.android.app_aab.featureflavors.export-packaged_res-10 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/build/intermediates/packaged_res/debug

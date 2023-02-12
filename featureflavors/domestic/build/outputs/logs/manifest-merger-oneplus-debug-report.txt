@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+MERGED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:1-49:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+	package
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:20:5-64
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:19:5-61
+	android:versionCode
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:1-27:12
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:18:11-69
+dist:module
+ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:22:5-26:19
+	dist:title
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:24:9-37
+	dist:onDemand
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:23:9-29
+dist:fusing
+ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:25:9-45
+	dist:include
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml:25:22-42
+uses-sdk
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+MERGED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-24:41
+MERGED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-24:41
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		ADDED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+		INJECTED from /Users/michael/softarclee/android-projects/dfmapp/featureflavors/domestic/src/main/AndroidManifest.xml
+queries
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:5-36:15
+package#com.jacky.domestic.cast
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:18-56
+package#com.jacky.domestic.pmres
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:18-57
+package#com.jacky.test
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:18-47
+application
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:5-47:19
+	android:hasCode
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-32
+	android:allowBackup
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:9-36
+meta-data#app_key
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:9-43:47
+	android:value
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-35
+meta-data#android.app.shortcuts
+ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:9-46:55
+	android:value
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from [:flavor_dom] /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-49

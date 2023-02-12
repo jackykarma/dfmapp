@@ -1,0 +1,9 @@
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    android:text="Domestic"
+    />
+
+<!--新的问题，module不能依赖base中的资源-->

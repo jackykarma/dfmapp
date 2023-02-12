@@ -1,0 +1,9 @@
+com.jacky.android.app_aab.featureflavors.export-pngs-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/pngs/release
+com.jacky.android.app_aab.featureflavors.export-resValues-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/resValues/release
+com.jacky.android.app_aab.featureflavors.export-rs-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/rs/release
+com.jacky.android.app_aab.featureflavors.export-packageReleaseResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.jacky.android.app_aab.featureflavors.export-packageReleaseResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.export-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/merged_res/release
+com.jacky.android.app_aab.featureflavors.export-main-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/main/res
+com.jacky.android.app_aab.featureflavors.export-release-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/release/res
+com.jacky.android.app_aab.featureflavors.export-packaged_res-8 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/build/intermediates/packaged_res/release

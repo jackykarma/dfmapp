@@ -1,0 +1,2 @@
+:export::release;capability group='DfmApp', name='export', version='unspecified'
+:flavor_exp::release;capability group='DfmApp', name='flavor_exp', version='unspecified'

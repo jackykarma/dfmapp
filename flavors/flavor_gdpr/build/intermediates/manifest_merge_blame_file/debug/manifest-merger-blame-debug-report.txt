@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright 2018 Google LLC.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~    http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<!-- This feature module only contains a single assets file relevant to the Android app. -->
+18<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+19    xmlns:dist="http://schemas.android.com/apk/distribution"
+20    package="com.jacky.android.flavors.gdpr" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="32" />
+24-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml
+25
+26    <dist:module
+26-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:22:5-26:19
+27        dist:onDemand="true"
+27-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:23:9-29
+28        dist:title="@string/dfm_gdpr" >
+28-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:24:9-38
+29        <dist:fusing dist:include="false" />
+29-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:25:9-45
+29-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:25:22-42
+30    </dist:module>
+31
+32    <!--
+33    如果您的应用以 Android 11（API 级别 30）或更高版本为目标平台，
+34    并且需要与应用（自动可见的应用除外）交互，请在您应用的清单文件中添加 <queries> 元素。
+35    在 <queries> 元素中，按软件包名称、按 intent 签名或按提供程序授权指定其他应用
+36    -->
+37    <queries>
+37-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:42:5-46:15
+38        <package android:name="com.jacky.gdpr.cast" />
+38-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:43:9-55
+38-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:43:18-52
+39        <package android:name="com.jacky.gdpr.pmres" />
+39-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:44:9-56
+39-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:44:18-53
+40        <package android:name="com.jacky.test" />
+40-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:45:9-49
+40-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:45:18-47
+41    </queries>
+42
+43    <application
+43-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:28:5-37:19
+44        android:allowBackup="true"
+44-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:29:9-35
+45        android:hasCode="false" >
+45-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:28:18-41
+46        <meta-data
+46-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:31:9-33:47
+47            android:name="app_key"
+47-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:32:13-35
+48            android:value="@string/app_key" />
+48-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:33:13-44
+49        <meta-data
+49-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:34:9-36:51
+50            android:name="android.app.shortcuts"
+50-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:35:13-49
+51            android:value="@xml/shortcuts_gdpr" />
+51-->/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_gdpr/src/main/AndroidManifest.xml:36:13-48
+52    </application>
+53
+54</manifest>

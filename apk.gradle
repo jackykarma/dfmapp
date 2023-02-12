@@ -1,0 +1,20 @@
+android {
+    flavorDimensions "brand", "region"
+    productFlavors {
+        oppo {
+            dimension "brand"
+        }
+        oneplus {
+            dimension "brand"
+        }
+        domestic {
+            dimension "region"
+        }
+        export {
+            dimension "region"
+        }
+        gdpr {
+            dimension "region"
+        }
+    }
+}

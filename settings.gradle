@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "DfmApp"
+include ':app'
+include ':domestic', ':export', ':gdpr'
+include ':flavor_dom', ':flavor_exp', ':flavor_gdpr'
+project(':domestic').projectDir = new File("./featureflavors/domestic")
+project(':export').projectDir = new File("./featureflavors/export")
+project(':gdpr').projectDir = new File("./featureflavors/gdpr")
+project(':flavor_dom').projectDir = new File("./flavors/flavor_dom")
+project(':flavor_exp').projectDir = new File("./flavors/flavor_exp")
+project(':flavor_gdpr').projectDir = new File("./flavors/flavor_gdpr")
+include ':app_apk'

@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/michael/.gradle/daemon/7.4/com.jacky.android.app_aab.featureflavors.domestic-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "67",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.jacky.android.app_aab.featureflavors.domestic-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_dom/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,-1",
+                        "startColumns": "4,4,4,4,4,4,4,-1",
+                        "startOffsets": "100,142,189,236,283,328,373,-1",
+                        "endColumns": "41,46,46,46,44,44,41,-1",
+                        "endOffsets": "137,184,231,278,323,368,410,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,142,189,236,283,328,373,415",
+                        "endColumns": "41,46,46,46,44,44,41,67",
+                        "endOffsets": "137,184,231,278,323,368,410,478"
+                    }
+                }
+            ]
+        }
+    ]
+}

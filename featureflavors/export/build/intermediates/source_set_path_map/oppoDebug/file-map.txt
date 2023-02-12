@@ -1,0 +1,11 @@
+com.jacky.android.app_aab.featureflavors.export-oppo-0 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/pngs/oppo/debug
+com.jacky.android.app_aab.featureflavors.export-oppo-1 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/resValues/oppo/debug
+com.jacky.android.app_aab.featureflavors.export-oppo-2 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/generated/res/rs/oppo/debug
+com.jacky.android.app_aab.featureflavors.export-packageOppoDebugResources-3 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/merged.dir
+com.jacky.android.app_aab.featureflavors.export-packageOppoDebugResources-4 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/incremental/oppoDebug/packageOppoDebugResources/stripped.dir
+com.jacky.android.app_aab.featureflavors.export-merged_res-5 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/build/intermediates/merged_res/oppoDebug
+com.jacky.android.app_aab.featureflavors.export-debug-6 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/debug/res
+com.jacky.android.app_aab.featureflavors.export-main-7 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/main/res
+com.jacky.android.app_aab.featureflavors.export-oppo-8 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/oppo/res
+com.jacky.android.app_aab.featureflavors.export-oppoDebug-9 /Users/michael/softarclee/android-projects/dfmapp/featureflavors/export/src/oppoDebug/res
+com.jacky.android.app_aab.featureflavors.export-packaged_res-10 /Users/michael/softarclee/android-projects/dfmapp/flavors/flavor_exp/build/intermediates/packaged_res/debug

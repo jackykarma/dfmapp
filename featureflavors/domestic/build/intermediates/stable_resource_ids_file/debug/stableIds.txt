@@ -1,0 +1,12 @@
+com.jacky.dfmapp:xml/shortcuts_domestic = 0x7e050000
+com.jacky.dfmapp:string/app_key = 0x7e040000
+com.jacky.dfmapp:raw/raw = 0x7e030000
+com.jacky.dfmapp:layout/layout_domestic = 0x7e020000
+com.jacky.dfmapp:color/teal_700 = 0x7e010005
+com.jacky.dfmapp:color/teal_200 = 0x7e010004
+com.jacky.dfmapp:color/purple_700 = 0x7e010003
+com.jacky.dfmapp:xml/widgets = 0x7e050001
+com.jacky.dfmapp:color/white = 0x7e010006
+com.jacky.dfmapp:color/black = 0x7e010000
+com.jacky.dfmapp:color/purple_200 = 0x7e010001
+com.jacky.dfmapp:color/purple_500 = 0x7e010002
